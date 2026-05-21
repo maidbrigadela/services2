@@ -3,7 +3,7 @@
 This repository contains the official service information website for **Maid Brigade of Los Angeles & South Bay**.
 
 ## Live Website
-**https://maidbrigadela.github.io/services/**
+**https://maidbrigadela.github.io/services2/**
 
 ## Available Pages
 
